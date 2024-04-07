@@ -1,0 +1,1 @@
+conda env update --file /path/to/environment.yml --name base
